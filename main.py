@@ -9,7 +9,7 @@ from aiogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, R
 
 from Data import lecturers, courses, auditorium
 
-TOKEN = "7168890234:AAGwl3pcVp-UAVx5ySoElaPIuAMm9QUZBME" #  5667733135:AAHOkpMzf7x2bhoFeyOUsLku0ogAX-Ka-CI
+TOKEN = "BOT_TOKEN"
 ADMIN_ID = 1134942813
 
 bot = Bot(token=TOKEN)
