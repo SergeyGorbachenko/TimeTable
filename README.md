@@ -34,7 +34,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-repo-url.git
+   git clone https://github.com/SergeyGorbachenko/TimeTable.git
    ```
 
 2. Перейдите в директорию проекта:
